@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEneXovy7iW5w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728933243987?e=1734566400&v=beta&t=8xO93hLgluOYq0vy8i71lXmcju29zGroAfdrinATI-8)
 <h1 align="center">Hi 👋, I'm Ali Doğan Pekdaş</h1>
 <h3 align="center">A passionate computer engineer from Türkiye</h3>
 
